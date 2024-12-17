@@ -33,6 +33,8 @@ python visualizer.py config.yaml
 
 # Тесты 
 Граф с датой под названием коммита 
+
+
 ![image](https://github.com/user-attachments/assets/9421436f-90af-4360-8824-845a816cb1bc) 
 
 
